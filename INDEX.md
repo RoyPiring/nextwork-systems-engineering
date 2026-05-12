@@ -10,13 +10,13 @@ Validated end-to-end builds across cloud, AI, security, data, and platform.
 
 **Jump to a super-domain:**
 
-- [☁️ AWS Cloud Foundations](#aws-cloud-foundations) — 5 domains · 29 builds
-- [🔁 Platform & DevOps](#platform-devops) — 3 domains · 16 builds
-- [🤖 AI Applications](#ai-applications) — 5 domains · 22 builds
-- [🧠 AI Engineering & Tooling](#ai-engineering-tooling) — 5 domains · 21 builds
-- [🔒 Security & Compliance](#security-compliance) — 2 domains · 9 builds
-- [🛠️ Developer Platform](#developer-platform) — 2 domains · 8 builds
-- [📊 Data & Revenue](#data-revenue) — 2 domains · 7 builds
+- [☁️ AWS Cloud Foundations](#aws-cloud-foundations), 5 domains · 29 builds
+- [🔁 Platform & DevOps](#platform-devops), 3 domains · 16 builds
+- [🤖 AI Applications](#ai-applications), 5 domains · 22 builds
+- [🧠 AI Engineering & Tooling](#ai-engineering-tooling), 5 domains · 21 builds
+- [🔒 Security & Compliance](#security-compliance), 2 domains · 9 builds
+- [🛠️ Developer Platform](#developer-platform), 2 domains · 8 builds
+- [📊 Data & Revenue](#data-revenue), 2 domains · 7 builds
 
 ---
 

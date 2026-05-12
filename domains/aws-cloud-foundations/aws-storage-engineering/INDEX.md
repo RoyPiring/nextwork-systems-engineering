@@ -10,7 +10,7 @@
 
 ## Build sequence
 
-Ordered builds — each step is a complete system the next builds on.
+Ordered builds, each step is a complete system the next builds on.
 
 | # | Build | Stack | Source | Diagram |
 |--:|---|---|---|---|
