@@ -1,6 +1,6 @@
 # NextWork Systems Engineering
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-112-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Domains](https://img.shields.io/badge/domains-24-264653?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--11-7B42BC?style=flat-square&labelColor=0d1117)](./INDEX.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1B4332?style=flat-square&labelColor=0d1117)](./LICENSE) [![Systems](https://img.shields.io/badge/systems-112-2F5233?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Domains](https://img.shields.io/badge/domains-24-264653?style=flat-square&labelColor=0d1117)](./INDEX.md) [![Updated](https://img.shields.io/badge/updated-2026--05--13-7B42BC?style=flat-square&labelColor=0d1117)](./INDEX.md)
 
 > *What systems hold up under real-world engineering constraints across the full domain stack?*
 
