@@ -93,7 +93,7 @@ Initial attempts to authenticate Maven against CodeArtifact failed due to missin
 
 An IAM policy granting CodeArtifact read and token permissions was created and attached to an IAM role. That role was then associated with the EC2 instance, allowing the instance to obtain temporary credentials automatically.
 
-IAM roles were used instead of static credentials to enforce least privilege, enable automatic credential rotation, and avoid embedding secrets in configuration files. This approach aligns with AWS security best practices for service-to-service access.
+IAM roles were used instead of static credentials to enforce least privilege, enable automatic credential rotation, and avoid embedding secrets in configuration files.
 
 ---
 
