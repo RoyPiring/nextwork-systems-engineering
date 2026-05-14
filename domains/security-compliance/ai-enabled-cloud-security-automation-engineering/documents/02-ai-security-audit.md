@@ -23,7 +23,7 @@ The objective is to explore how AI models can augment traditional static analysi
 
 The tools used in this project are Python, the Google Gemini API, and the Colorama library.
 
-Python provides the scripting and automation foundation. The Gemini API is used to perform AI-driven security analysis based on structured prompts. Colorama enhances terminal output by visually distinguishing vulnerability severity levels.
+Python provides the scripting and automation foundation. The Gemini API is used to perform AI-driven security analysis based on structured prompts. Colorama colors terminal output by severity: red high, yellow medium, green low.
 
 Key concepts explored include AI-assisted security analysis, prompt engineering for structured outputs, automated code scanning, and severity classification. A core skill exercised in this project is adapting prompts and interpreting AI responses to produce actionable security insights.
 
@@ -35,7 +35,7 @@ The most successful outcome was validating that the scanner could identify reali
 
 ### Why I did this project
 
-I completed this project to explore how AI can enhance software security analysis beyond traditional pattern-based tools. The goal was to gain hands-on experience integrating an AI model into a security workflow while improving Python automation skills.
+I completed this project to explore how AI can flag context-dependent vulnerabilities that traditional pattern-based tools miss. The goal was to gain hands-on experience integrating an AI model into a security workflow while improving Python automation skills.
 
 This project also served as a foundation for future expansion, including integrating the scanner into CI/CD pipelines to perform automated security checks during development.
 
@@ -81,7 +81,7 @@ The implementation supports:
 
 ![Image](http://learn.nextwork.org/refreshed_maroon_timid_jujube/uploads/ai-security-audit_sec7h8i9)
 
-The Gemini model identified vulnerabilities including SQL injection risks, exposed API keys, and unsafe file handling. The security prompt was designed to request a comprehensive analysis covering issues such as cross-site scripting, insecure session handling, and improper input validation.
+The Gemini model identified vulnerabilities including SQL injection risks, exposed API keys, and unsafe file handling. The security prompt was designed to request a structured analysis covering scope, findings, and remediation covering issues such as cross-site scripting, insecure session handling, and improper input validation.
 
 This structured approach enables consistent output, easier evaluation of scanner accuracy, and iterative improvement through prompt refinement.
 
@@ -89,7 +89,7 @@ This structured approach enables consistent output, easier evaluation of scanner
 
 ## Adding Severity Ratings
 
-This step enhances the scanner by adding severity classification to identified vulnerabilities. Severity ratings help prioritize remediation efforts by indicating relative risk.
+This step adds severity classification (low / medium / high) to each finding to identified vulnerabilities. Severity ratings help prioritize remediation efforts by indicating relative risk.
 
 Key enhancements include:
 
