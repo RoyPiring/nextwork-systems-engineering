@@ -115,7 +115,7 @@ The configuration layer retrieves the secret payload and extracts required field
 
 Repository history is rebased to produce a linear commit sequence that removes insecure commits from the visible history.
 
-Conflict resolution ensures the final state reflects Secrets Manager–based authentication.
+Conflict resolution ensures the final state reflects Secrets Manager-based authentication.
 
 Post-rebase validation confirms successful AWS access using managed secrets by verifying connectivity, data access, and resource authorization without authentication errors.
 

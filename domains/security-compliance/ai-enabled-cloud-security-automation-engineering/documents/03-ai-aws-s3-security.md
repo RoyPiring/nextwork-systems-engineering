@@ -23,7 +23,7 @@ This work matters because storage misconfigurations are a frequent cause of data
 
 The project uses AWS Lambda for serverless execution, Amazon S3 as the security target, EventBridge for scheduling, boto3 for AWS API access, and Google Gemini AI for intelligent analysis. Cursor is used as the development environment to accelerate iteration and deployment.
 
-The core concepts include AI-assisted security scanning, least-privilege IAM role design, environment variable–based secret management, scheduled execution, and packaging Python workloads for Lambda. Together, these represent a practical foundation for automated cloud security monitoring.
+The core concepts include AI-assisted security scanning, least-privilege IAM role design, environment variable-based secret management, scheduled execution, and packaging Python workloads for Lambda. Together, these represent a practical foundation for automated cloud security monitoring.
 
 ### Challenges and wins
 
