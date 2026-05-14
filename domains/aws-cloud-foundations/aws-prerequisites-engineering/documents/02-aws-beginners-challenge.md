@@ -27,7 +27,7 @@ This document defines a bounded set of introductory AWS projects intended to exe
 ### Non-Goals
 - Advanced enterprise patterns
 - Production-ready implementations
-- Comprehensive service coverage
+- Service families touched: IAM, EC2, S3, VPC, CloudWatch
 - Multi-domain integrations
 
 ## Architecture
