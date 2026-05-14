@@ -29,7 +29,7 @@ The core concepts include AI-assisted security scanning, least-privilege IAM rol
 
 The primary challenge was converting raw S3 configuration data into meaningful, accurate security insights using AI. This required careful prompt design and validation to ensure the analysis focused on real encryption risks rather than generic security advice.
 
-The key win was producing a scanner that not only identifies missing or weak encryption but explains the impact and remediation steps clearly. Seeing the Lambda function return understandable, actionable findings confirmed that AI can enhance security workflows rather than obscure them.
+The key win was producing a scanner that not only identifies missing or weak encryption but explains the impact and remediation steps clearly. Seeing the Lambda function return understandable, actionable findings confirmed that AI can summarize misconfiguration findings into actionable remediation steps rather than obscure them.
 
 ### Why I did this project
 
