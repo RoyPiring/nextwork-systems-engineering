@@ -161,7 +161,7 @@ Swagger UI provided a clear and intuitive way to explore and test the API. The a
 
 ## Adding Dynamic Content
 
-This extension enhances the RAG API by allowing new content to be added dynamically. Instead of rebuilding the knowledge base, the system can accept new data at runtime.
+This extension lets the RAG API accept new content dynamically; the knowledge base no longer needs a rebuild. Instead of rebuilding the knowledge base, the system can accept new data at runtime.
 
 Adding the /add endpoint
 
