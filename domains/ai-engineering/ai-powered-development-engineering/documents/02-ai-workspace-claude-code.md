@@ -127,7 +127,7 @@ Development costs remained within expected limits due to constrained AI usage an
 
 ### Building custom commands
 
-Using commands to streamline development. Activate plan mode. Create a 3-stage plan: Requirements and Blueprint, Core Functionality, Refinement and Testing. Add strict stage controls with clear objectives, gatekeepers, and dependency management. Implement each stage one at a time, prioritizing, iterating within stages, and documenting.
+Slash commands wrap the three-stage workflow so each stage runs from a single command. Activate plan mode. Create a 3-stage plan: Requirements and Blueprint, Core Functionality, Refinement and Testing. Add strict stage controls with clear objectives, gatekeepers, and dependency management. Implement each stage one at a time, prioritizing, iterating within stages, and documenting.
 
 ### Use cases of commands
 
